@@ -1,0 +1,3 @@
+<IfModule mod_rewrite.c>
+  AllowOverride AllPHP_FLAG output_buffering On
+</IfModule>
